@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Overview of Election Audit
 
 A Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressional election:
 
@@ -15,7 +15,10 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 Data Source: election_results.csv
 Software: Python, Visual Studio Code
 
-## Summary
+## Election Audit Results
+
+![image](https://user-images.githubusercontent.com/114033254/205528178-e8a2e205-88a9-4e81-b767-803ce87a8b6c.png)
+
 
 The analysis of the election show that:
 
@@ -37,6 +40,8 @@ The analysis of the election show that:
 
   Diana DeGette who received 73.8% of the vote and 272,892 votes.
   
-## Challenge Overview
+## Election Audit Summary
+
+This script can be used for any election by modifying the county names. The counties could be replaced by states, cities, etc., depending on what type of election is occuring with simple modification of the script. 
 
 
