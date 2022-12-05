@@ -13,6 +13,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 ## Resources
 
 Data Source: election_results.csv
+
 Software: Python, Visual Studio Code
 
 ## Election Audit Results
